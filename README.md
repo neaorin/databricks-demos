@@ -11,6 +11,6 @@ You can also use the free [Databricks Community Edition](https://community.cloud
 
 ## Available Demos
 
-1. [Loading, Transforming and Visualizing Data](http://htmlpreview.github.com/?https://github.com/neaorin/databricks-demos/blob/master/demos/LoadingTransformingVisualizingData.html)
-2. [Movie Recommendations Engine using Collaborative Filtering](http://htmlpreview.github.io/?https://github.com/neaorin/databricks-demos/blob/master/demos/MovieRecommender.html)
-3. [Telco Customer Churn Modelling using Gradient Boosted Trees](http://htmlpreview.github.io/?https://github.com/neaorin/databricks-demos/blob/master/demos/telco-customer-churn.html)
+1. [Loading, Transforming and Visualizing Data](https://neaorin.github.io/databricks-demos/LoadingTransformingVisualizingData.html)
+2. [Movie Recommendations Engine using Collaborative Filtering](https://neaorin.github.io/databricks-demos/MovieRecommender.html)
+3. [Telco Customer Churn Modelling using Gradient Boosted Trees](https://neaorin.github.io/databricks-demos/telco-customer-churn.html)
